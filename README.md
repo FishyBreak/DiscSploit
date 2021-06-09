@@ -10,7 +10,7 @@
 * `!banhammer` - to ban everyone on the server.
 
 * `!leaveserver` - to make the bot leave the server.
-* `!mention all` - mentions everyone.
+* `!mentionall` - mentions everyone.
 
 ## Dependencies:
 * Node 12.x or higher, you can get it [here](https://nodejs.org/en/download/).
