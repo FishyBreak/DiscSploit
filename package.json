@@ -1,17 +1,17 @@
 {
-  "name": "DieSploit",
+  "name": "DiscSploit",
   "version": "0.0.1",
   "description": "A Discord Server Destoyer",
   "main": "bot.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FishyBreak/DieSploit.git"
+    "url": "git+https://github.com/FishyBreak/DiscSploit.git"
   },
   "creator": "FishyBreak",
   "dependencies": {
     "discord.js": "^12.0.0"
   },
   "bugs": {
-    "url": "https://github.com/FishyBreak/DieSploit/pulls"
+    "url": "https://github.com/FishyBreak/DiscSploit/pulls"
   }
 }
