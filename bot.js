@@ -33,7 +33,8 @@ fs.readdir("./commands/", (err, files) => {
 
 bot.on("ready", async () => {
 
-	console.log(`DieSploit Is Now Activated`);
+	console.log(`DiscSploit Is Now Activated`);
+	console.log(`DiscSploit Is Ready To HACK! 😎`);
 	bot.user.setActivity(`Hacking with @FishyBreak`);
 
     bot.generateInvite({
