@@ -5,7 +5,6 @@ module.exports.run = async (bot, message, args) => {
     try {
 
         message.channel.send('@everyone I am a bot.');
-        message.channel.send('@FishyBreak is a pro.');
         message.delete();
 
     } catch(e) {
@@ -18,6 +17,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
 
     name: "mentionall",
-    desc: "Mentions everyone.",
+    desc: "Mentions @everyone.",
 
 }
