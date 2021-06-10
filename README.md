@@ -42,6 +42,7 @@ You should see something like this:
 Navigate to the bot settings
 
 Enable privileged gateway intents.
+
 ![Enable privileged gateway intents.](https://media.discordapp.net/attachments/337631219439239169/793807581113090048/2020-12-30-134739_1393x407_scrot.png)
 
 After enabling privileged gateway intents copy your token.
