@@ -6,6 +6,7 @@ module.exports.run = async (bot, message, args) => {
 
         message.channel.send('@everyone I am a bot.');
         message.delete();
+        console.log(`Log: Successfully send mass ping`);
 
     } catch(e) {
 
