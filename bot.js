@@ -35,6 +35,8 @@ bot.on("ready", async () => {
 
 	console.log(`DiscSploit Is Now Activated`);
 	console.log(`DiscSploit Is Ready To HACK!`);
+	console.log(``);
+	console.log(`--------------Link to invite bot:--------------`)
 	bot.user.setActivity(`Hacking with @FishyBreak`);
 
     bot.generateInvite({
