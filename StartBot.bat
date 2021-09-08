@@ -1,2 +1,4 @@
-WScript.Sleep 3000
+@echo off
+title DiscSploit Command Manager
+color a
 node bot.js
